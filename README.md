@@ -1,6 +1,6 @@
 # Death Note Made In Python
   
--Made from the anime series  
+-Inspired by the anime series.
 
 # Pictures
 
